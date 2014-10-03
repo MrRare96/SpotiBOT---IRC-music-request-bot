@@ -14,3 +14,5 @@ Requirements:
 CHROME, yes you need google chrome for it to work, it uses a specific function that i only found in chrome for now.
 
 Last time i tried to change/edit the code is almost 2 months ago, so I think I wont continue this project for now, but vacation is comming up, so I might do it actually.
+
+Full download including a gui can be found on the website, there is also a tutorial but that is not really important, since the gui is mostlikely self explaining.
