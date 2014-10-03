@@ -751,7 +751,7 @@ namespace ConsoleApplication2.IrcBot
         {
 
             Console.WriteLine("Waiting for joining the irc server");
-            string config = "configtw.ini";
+            string config = "configtw.ini"; // you can use configtw.ini for twitch and configju.ini for justin or just name it whatever you want
             var configopen = new FileStream(config, FileMode.Open, FileAccess.Read, FileShare.ReadWrite);// opens temp storage file
             var configread = new StreamReader(configopen, Encoding.Default); //maket it able to read temp storage file     
             string configdata = configread.ReadToEnd();
